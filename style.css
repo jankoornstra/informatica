@@ -1,0 +1,19 @@
+/*Simple reset*/
+* {margin: 0; padding: 0;}
+
+body {
+	/*You can use any kind of background here.*/
+	background: #8C0E0E;
+}
+canvas {
+	display: block;
+}
+
+/* IDs */
+
+#tekst {
+	color: #eeeeee;
+	font-size: 100px;
+	position: absolute;
+	left: 20%;
+}
